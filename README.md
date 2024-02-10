@@ -1,0 +1,2 @@
+# blog
+use Nuxt
